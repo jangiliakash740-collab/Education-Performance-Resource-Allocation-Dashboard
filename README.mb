@@ -1,10 +1,10 @@
 # Education Performance & Resource Allocation Dashboard
 
 ## Project Overview
-Dashboard for analyzing student performance, attendance, pass vs fail ratio, and resource allocation using Power BI visualizations.
+Dashboard for analyzing student performance, attendance, resource allocation, and utilization using Power BI.
 
 ## Files Included
-- Education Dashboard.jpeg
+- Dashboard.jpeg
 - education_dataset.xlsx
 
 ## Tools Used
@@ -12,21 +12,8 @@ Dashboard for analyzing student performance, attendance, pass vs fail ratio, and
 - GitHub
 
 ## Features
-- Average Marks Analysis
 - Attendance Analysis
-- Pass vs Fail Distribution
-- Resource Usage Analysis
-- Interactive Dashboard
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Average Marks
+- Pass vs Fail Ratio
+- Resource Usage
+- Interactive Visualizations
