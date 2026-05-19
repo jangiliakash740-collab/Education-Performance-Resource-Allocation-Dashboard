@@ -1,0 +1,49 @@
+# Education-Performance-Resource-Allocation-Dashboard
+Interactive Power BI dashboard designed to analyze education performance and resource allocation using data visualization. The dashboard provides insights into student attendance, average marks, pass vs fail distribution, utilization percentage, and resource usage analysis for better academic planning and decision-making.
+Project Overview
+
+The Education Performance & Resource Allocation Dashboard is a data visualization project designed to analyze student academic performance, attendance, and institutional resource utilization through interactive charts, KPIs, and reports. This dashboard helps educational institutions monitor learning outcomes, classroom efficiency, and resource management for better academic planning and decision-making.
+
+The project transforms complex educational data into meaningful visual insights, enabling administrators and educators to improve performance tracking and optimize resource allocation.
+
+Key Features
+Student Performance Analysis
+Subject-wise Average Marks Tracking
+Pass vs Fail Distribution Analysis
+Attendance Monitoring
+Resource Usage & Capacity Analysis
+Utilization Percentage by Class
+Interactive Charts and KPI Metrics
+Student-Teacher Ratio Monitoring
+Technologies Used
+Power BI
+Microsoft Excel
+SQL
+Data Visualization Techniques
+Objective of the Project
+
+The primary goal of this dashboard is to:
+
+Analyze educational performance effectively
+Monitor attendance and academic progress
+Optimize institutional resource allocation
+Support data-driven educational decisions
+Visualize performance trends and utilization patterns
+Dashboard Insights
+
+The dashboard provides insights into:
+
+Average Student Marks
+Subject-wise Performance
+Pass & Fail Percentage
+Attendance Trends
+Resource Utilization Rates
+Student-Teacher Ratio
+Classroom & Lab Capacity Usage
+Overall Academic Performance Status
+Use Cases
+School Performance Monitoring
+College Resource Management
+Student Academic Analysis
+Attendance & Utilization Reporting
+Educational Planning and Decision-Making
