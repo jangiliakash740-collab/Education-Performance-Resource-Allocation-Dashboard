@@ -4,16 +4,16 @@
 Dashboard for analyzing student performance, attendance, resource allocation, and utilization using Power BI.
 
 ## Files Included
-Dashboard.jpeg
-education_dataset.xlsx
+- Dashboard.jpeg
+- education_dataset.xlsx
 
 ## Tools Used
-Excel / Power BI
-GitHub
+- Excel / Power BI
+- GitHub
 
 ## Features
-Attendance Analysis
-Average Marks
-Pass vs Fail Ratio
-Resource Usage
-Interactive Visualizations
+- Attendance Analysis
+- Average Marks
+- Pass vs Fail Ratio
+- Resource Usage
+- Interactive Visualizations
